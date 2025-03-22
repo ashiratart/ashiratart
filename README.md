@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working as an independent web developer<br>I try to help with web development and pentesting<br>I'm currently learning Lua
+I'm currently working as an independent developer<br>I try to help with web development and pentesting<br>I'm currently learning Lua
 
 
 ## 🌐 Socials:
