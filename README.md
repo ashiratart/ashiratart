@@ -19,7 +19,7 @@ I'm currently working as an independent developer<br>I try to help with web deve
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 😂 Random Dev Meme
-<img src="[](https://images3.memedroid.com/images/UPLOADED16/5eacd767b944a.jpeg) width="512px"/>
+![Minha Imagem](5eacd767b944a.jpeg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ashiratart&icon=2&color=12)](https://visitcount.itsvg.in)
