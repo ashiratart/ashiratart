@@ -1,14 +1,9 @@
-# 💫 Sobre mim | About Me | Sobre mí
+# 💫 Sobre mim | Sobre mí
 
 ### 🇧🇷 Português  
 Sou um desenvolvedor independente, focado em desenvolvimento web, scripts e segurança da informação.  
 Atualmente estudando C e sistemas baseados em Linux.  
 Tenho interesse em automação, back-end e projetos educacionais ou open-source.
-
-### 🇺🇸 English  
-I'm an independent developer focused on web development, scripting, and cybersecurity.  
-Currently learning C and working with Linux-based systems.  
-Interested in backend engineering, automation, and open-source or educational projects.
 
 ### 🇪🇸 Español  
 Soy un desarrollador independiente centrado en desarrollo web, scripting y ciberseguridad.  
@@ -17,7 +12,7 @@ Me interesan la automatización, el backend y los proyectos educativos o de cód
 
 ---
 
-## 🌐 Redes sociais | Socials | Redes sociales
+## 🌐 Redes sociais | Redes sociales
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/acácio-mariano-silva-de-brito/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashiratart) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ashiratart) 
